@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuhanpizza&label=Profile%20views&color=0e75b6&style=flat" alt="yuhanpizza" /> </p>
 
-- More about me: [https://lorenzalvintubo-resume.netlify.app/](https://lorenzalvintubo-resume.netlify.app/)
+- About me: [https://lorenzalvintubo-resume.netlify.app/](https://lorenzalvintubo-resume.netlify.app/)
 
 - Things I am trying to learn: [https://pizza-jsgamedev-journey.netlify.app/](https://pizza-jsgamedev-journey.netlify.app/)
 
