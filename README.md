@@ -3,18 +3,17 @@
 <h1 align="center">Welcome Traveller I am Lorenz Alvin Tubo</h1>
 <h3 align="center">Currently I am a programming student at Seneca College.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuhanpizza&label=Profile%20views&color=0e75b6&style=flat" alt="yuhanpizza" /> </p>
 
 - About me: [https://lorenzalvintubo-resume.netlify.app/](https://lorenzalvintubo-resume.netlify.app/)
 
-- Things I am trying to learn: [https://pizza-jsgamedev-journey.netlify.app/](https://pizza-jsgamedev-journey.netlify.app/)
+- More: [https://pizza-jsgamedev-journey.netlify.app/](https://pizza-jsgamedev-journey.netlify.app/)
 
 - My Linkedin: [https://www.linkedin.com/feed/?trk=404_page](https://www.linkedin.com/feed/?trk=404_page)
 
 - All of my projects are available at [https://github.com/YuhanPizza](https://github.com/YuhanPizza)
 
-- How to reach me **lorenzalvintubo@gmail.com**
+- Email at: **lorenzalvintubo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuhanpizza&show_icons=true&locale=en&layout=compact" alt="yuhanpizza" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuhanpizza&show_icons=true&locale=en" alt="yuhanpizza" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuhanpizza&" alt="yuhanpizza" /></p>
