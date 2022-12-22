@@ -9,7 +9,7 @@
 
 - More: [https://pizza-jsgamedev-journey.netlify.app/](https://pizza-jsgamedev-journey.netlify.app/)
 
-- My Linkedin: [https://www.linkedin.com/feed/?trk=404_page](https://www.linkedin.com/feed/?trk=404_page)
+- My Linkedin: [https://www.linkedin.com/feed/?trk=404_page](https://www.linkedin.com/in/lorenz-alvin-tubo-13a974255/)
 
 - All of my projects are available at [https://github.com/YuhanPizza](https://github.com/YuhanPizza)
 
