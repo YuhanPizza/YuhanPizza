@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuhanpizza&label=Profile%20views&color=0e75b6&style=flat" alt="yuhanpizza" /> </p>
 
-- About me: [https://lorenzalvintubo-resume.netlify.app/](https://lorenzalvintubo-resume.netlify.app/)
+- About me: [https://yuhanpizza.github.io/Resume/](https://yuhanpizza.github.io/Resume/)
 
 - More: [https://pizza-jsgamedev-journey.netlify.app/](https://pizza-jsgamedev-journey.netlify.app/)
 
