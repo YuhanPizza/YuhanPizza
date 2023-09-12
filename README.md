@@ -1,15 +1,16 @@
 [![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)](https://lorenzalvintubo-resume.netlify.app)
 
 <h1 align="center">Welcome Traveller I am Lorenz Alvin Tubo</h1>
-<h3 align="left">Lorenz is an enthusiastic and open-minded individual who is set to graduate in October 2023. His journey has been marked by a deep commitment to personal growth and a passion for making a positive impact.
+<h3 align="left">Lorenz is an enthusiastic and open-minded individual whose interest in global issues led him to pursue a Bachelor of Mass Communication degree at Holy Name University, graduating with distinction in 2016.
 
-Starting with a Bachelor of Mass Communication degree from Holy Name University, Lorenz graduated with distinction in 2016. During his academic years, he established strong connections with various charitable organizations, including the Red Cross Youth and Youth for Christ, maintaining these valuable relationships to this day.
+During his studies, he developed connections with multiple charitable organizations, such as the Red Cross Youth and Youth for Christ relationships he still maintains today.
 
-Following his graduation, Lorenz ventured into the hospitality industry, gaining invaluable experience in hotel reception and food and beverage service over the course of five years. His career path eventually led him overseas to Canada, where he took on the role of supervisor, overseeing crucial baking and lamination processes at FGF Brands Inc.
+From there, Lorenz continued to build his career by joining the hospitality industry, acquiring a lustrum’s worth of experience in both hotel reception and food and beverage service. His professional endeavours soon took him abroad to Canada where he held a position as a supervisor overseeing baking and lamination processes at FGF Brands Inc.
 
-In 2021, Lorenz embarked on a new chapter by relocating to Farnham, Quebec, where he assumed the position of shipping supervisor at Lanart Rugs. At Lanart Rugs, he contributed to the company's mission of providing unique and high-quality products that enhance the beauty and simplicity of everyday life.
+In 2021, Lorenz moved to Farnham, Quebec, to take on a new role as a shipping supervisor at Lanart Rugs, a company dedicated to providing unique and high-quality products that simplify and beautify everyday life.
 
-Driven by an insatiable thirst for knowledge and a desire to embrace new challenges, Lorenz made a pivotal decision in 2022. He enrolled in Seneca's Computer Programming Program, where he is currently dedicated to expanding his skillset and pursuing academic excellence in the field of computer programming. With graduation on the horizon in 2023, Lorenz is poised to bring his unique blend of communication, management, and technical skills to the world of programming, ready to make a significant mark in this dynamic field.</h3>
+Driven by his passion for knowledge, Lorenz enrolled in Seneca's Computer Programming Program in 2022, where he is currently expanding his skillset and pursuing his academic endeavors. 
+</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuhanpizza&label=Profile%20views&color=0e75b6&style=flat" alt="yuhanpizza" /> </p>
 
