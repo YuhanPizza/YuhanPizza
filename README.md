@@ -1,10 +1,10 @@
 ![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)
 
-<h1 align="center" role="heading" ><a src="https://front-end-react-resume.vercel.app/"> Lorenz Alvin Tubo 💻</a></h1>
+<h1 align="center" role="heading" > [Lorenz Alvin Tubo 💻] </h1>
 
 **`Full-stack Software Developer (Pizza Enthusiast/Friend/Worker)`**
 
-I'm a full-stack software developer that just recently graduated with honours from seneca college ready to embark on my digital journey one step at a time. All coding projects are coded by me from the ground up for school-workshops, school-projects, personal-projects, tutorials and code reviews, from ideation and planning, all the way to finalizing the project with my own personal touches. Welcome and lets start this journey together!
+I'm a full-stack software developer that just recently graduated with honours from seneca college ready to embark on my digital journey one step at a time. All coding projects are coded by me from the ground up for school-workshops, school-projects, personal-projects, tutorials and code reviews, from ideation and planning, all the way to finalizing the project with my own personal touches. Welcome and lets start this journey together! [Portfolio](https://front-end-react-resume.vercel.app/)
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuhanpizza&label=Profile%20views&color=0e75b6&style=flat" alt="yuhanpizza" /> </p>
 
