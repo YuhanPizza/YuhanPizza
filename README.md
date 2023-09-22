@@ -1,6 +1,6 @@
 ![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)
 
-<h1 align="center" role="heading" src="https://front-end-react-resume.vercel.app/"> Lorenz Alvin Tubo 💻</h1>
+<h1 align="center" role="heading" ><a src="https://front-end-react-resume.vercel.app/"> Lorenz Alvin Tubo 💻</a></h1>
 
 **`Full-stack Software Developer (Pizza Enthusiast/Friend/Worker)`**
 
