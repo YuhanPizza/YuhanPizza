@@ -23,11 +23,13 @@ I'm a full-stack software developer that just recently graduated with honours fr
 <div align="display: flex; align-items: left;">
 <details align="left">
 <summary><h3 role="heading" >About Me</h3></summary>
-<p>Lorenz is an enthusiastic and open-minded individual with a diverse background and a wealth of experiences that have shaped his journey. He recently graduated with honors, earning a degree in Computer Programming
-from Seneca College.</p>
-<p>Prior to his academic achievements in computer programming, Lorenz ventured into the hospitality industry, accumulating a lustrums worth of valuable experience in hotel reception and food and beverage services. His career took an international turn as he secured a position as a supervisor overseeing baking and lamination processes at FGF Brands Inc. in Canada.</p>
+<p>Lorenz is an enthusiastic and open-minded individual with a diverse background and a wealth of experiences that have shaped his journey. He holds a Bachelor of Mass Communication degree from Holy Name University, graduating with distinction in 2016.</p>
+
+<p>In addition to his communication degree, Lorenz recently graduated with honors, earning a diploma in Computer Programming from Seneca College in 2022. During his academic pursuits in computer programming, Lorenz built on his passion for knowledge and technology. Prior to his time at Seneca, he ventured into the hospitality industry, accumulating a lustrum's worth of valuable experience in hotel reception and food and beverage services. His career took an international turn as he secured a position as a supervisor overseeing baking and lamination processes at FGF Brands Inc. in Canada.</p>
+
 <p>In 2021, Lorenz relocated to Farnham, Quebec, where he embraced a new role as a shipping supervisor at Lanart Rugs. Here, he contributed to a company dedicated to delivering unique and high-quality products that enhance everyday life.</p>
-<p>With his recent graduation and impressive academic record in computer programming, Lorenz is poised to excel in the field and make significant contributions to any organization or project in the technology sector.</p>
+
+<p>Lorenz's educational achievements in both communication and computer programming have not only expanded his skill set but have also prepared him for a promising future in the technology sector. With his diverse experiences and recent graduation, he is well-equipped to make significant contributions to any organization or project in the field.</p>
 
 </details>
 </div>
