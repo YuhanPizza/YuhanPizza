@@ -1,4 +1,4 @@
-![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)
+![MasterHead](https://res.cloudinary.com/dusfrwsg5/image/upload/v1701644364/4910984_tjhazl.gif)
 
 <h1 align="center" role="heading" > Lorenz Alvin Tubo 💻 </h1>
 
