@@ -9,6 +9,11 @@
 ### 📺 Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Mobile Application Development - Calculator App](https://ytcards.demolab.com/?id=hQKXNuiILe4&title=Mobile+Application+Development+-+Calculator+App&lang=en&timestamp=1704666954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mobile Application Development - Calculator App")](https://www.youtube.com/watch?v=hQKXNuiILe4)
+[![(Mobile Application Development Android Studios) Cash-Register-App](https://ytcards.demolab.com/?id=PC6FbOyQacc&title=%28Mobile+Application+Development+Android+Studios%29+Cash-Register-App&lang=en&timestamp=1704666950&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "(Mobile Application Development Android Studios) Cash-Register-App")](https://www.youtube.com/watch?v=PC6FbOyQacc)
+[![Mobile Application Development (Android) Quiz-App](https://ytcards.demolab.com/?id=Pc6ORjHZ6VM&title=Mobile+Application+Development+%28Android%29+Quiz-App&lang=en&timestamp=1704666947&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mobile Application Development (Android) Quiz-App")](https://www.youtube.com/watch?v=Pc6ORjHZ6VM)
+[![Mobile Application Development (Android Studios) - Cooking-App](https://ytcards.demolab.com/?id=83ALOBbmoWk&title=Mobile+Application+Development+%28Android+Studios%29+-+Cooking-App&lang=en&timestamp=1704666945&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mobile Application Development (Android Studios) - Cooking-App")](https://www.youtube.com/watch?v=83ALOBbmoWk)
+[![UnitTesting Summary](https://ytcards.demolab.com/?id=PS0SsFcted8&title=UnitTesting+Summary&lang=en&timestamp=1704666942&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "UnitTesting Summary")](https://www.youtube.com/watch?v=PS0SsFcted8)
 <!-- END YOUTUBE-CARDS -->
 
 #
