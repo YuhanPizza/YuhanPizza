@@ -9,12 +9,7 @@
 ### 📺 Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Integration Tests - Repository Testing](https://ytcards.demolab.com/?id=panSTbjj9qs&title=Integration+Tests+-+Repository+Testing&lang=en&timestamp=1705015958&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Integration Tests - Repository Testing")](https://www.youtube.com/watch?v=panSTbjj9qs)
-[![Calculator App - Android](https://ytcards.demolab.com/?id=hQKXNuiILe4&title=Calculator+App+-+Android&lang=en&timestamp=1704666954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Calculator App - Android")](https://www.youtube.com/watch?v=hQKXNuiILe4)
-[![Cash-Register-App Android](https://ytcards.demolab.com/?id=PC6FbOyQacc&title=Cash-Register-App+Android&lang=en&timestamp=1704666950&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cash-Register-App Android")](https://www.youtube.com/watch?v=PC6FbOyQacc)
-[![Quiz-App (Android)](https://ytcards.demolab.com/?id=Pc6ORjHZ6VM&title=Quiz-App+%28Android%29&lang=en&timestamp=1704666947&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Quiz-App (Android)")](https://www.youtube.com/watch?v=Pc6ORjHZ6VM)
-[![Cooking-App (Android Studios)](https://ytcards.demolab.com/?id=83ALOBbmoWk&title=Cooking-App+%28Android+Studios%29&lang=en&timestamp=1704666945&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cooking-App (Android Studios)")](https://www.youtube.com/watch?v=83ALOBbmoWk)
-[![UnitTesting Summary](https://ytcards.demolab.com/?id=PS0SsFcted8&title=UnitTesting+Summary&lang=en&timestamp=1704666942&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "UnitTesting Summary")](https://www.youtube.com/watch?v=PS0SsFcted8)
+
 <!-- END YOUTUBE-CARDS -->
 
 #
