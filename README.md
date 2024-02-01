@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/dusfrwsg5/image/upload/v1701644364/4910984_tjhazl.gif)
+![4910984_tjhazl](https://github.com/YuhanPizza/YuhanPizza/assets/107896556/37fd8d1a-b14c-4c1d-b8fe-d0849a58be4a)
 
 <h1 align="center" role="heading" > Lorenz Alvin Tubo 💻 </h1>
 
